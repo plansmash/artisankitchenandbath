@@ -1,0 +1,134 @@
+/* CSS Document */
+body {
+	background-color: #000;
+	color: #fff;
+	font-size: 1.8em;
+}
+a {
+	color: #ADD8E6;
+}
+a:hover, a:focus {
+	color: #B0C4DE;
+}
+.top-margin-large {
+	margin-top: 15px;
+}
+.well a {
+	color: #778899;
+}
+.btn {
+  white-space: normal;
+}
+.btn-primary {
+	background-color: #808080;
+	border-color: #696969;
+}
+.btn-primary:hover {
+	background-color: #696969;
+	border-color: #696969;
+}
+
+.logo {
+	z-index: 9999;
+	margin-bottom:  25px;
+	margin-top:  25px;
+}
+
+/* Menu */
+
+.navbar-inverse {
+	background-color: #000;
+}
+.navbar a {
+	font-size: 1.25em;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color: #FFF;
+	text-align: right;
+}
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+	color: #999;
+}
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus {
+	color: #999;
+}
+/* Carousel */
+#myCarousel.home .carousel-control .icon-prev,
+#myCarousel.home .carousel-control .icon-next,
+#myCarousel.home .carousel-control .glyphicon-chevron-left,
+#myCarousel.home .carousel-control .glyphicon-chevron-right {
+	top: 35%;
+}
+#myCarousel.home .carousel-indicators {
+	bottom: 150px;
+}
+#myCarousel {
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.carousel-caption {
+  bottom: 0;
+  color: #fff;
+  left: 0;
+  padding: 0.5em 1em;
+  position: relative;
+  right: 0;
+  z-index: 101;
+}
+.carousel-caption h2 {
+	text-shadow: -3px 3px 3px #000;
+	margin-top: 0;
+}
+.featurette-divider {
+	margin: 50px 0;
+	clear: both;
+}
+.featurette-heading {
+	margin-top: 0;
+}
+#content h2 {
+	font-family: Verdana, Geneva, sans-serif;
+	letter-spacing: .05em;
+}
+#content p.lead {
+	margin-top: 15px;
+}
+footer {
+	background-color: #333;
+	min-height: 200px;
+	padding: 5px;
+	color: #fff;
+	margin-top: 15px;
+	font-size: .8em;
+}
+footer h2 {
+	font-family: Verdana, Geneva, sans-serif;
+	letter-spacing: .1em;
+	font-size: 1.4em;
+}
+legend {
+	color: #fff;
+}
+.well legend {
+	color: #000;
+}
+.well {
+	color: #000;
+}
+.social li {
+	display: inline;
+}
+.glyphicon {
+	padding-right:5px;
+}
+
+.thumbnail {
+	background-color: #333;
+}
+
+a:hover .thumbnail {
+	background-color: #999;
+	opacity: .7;
+}

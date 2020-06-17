@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: /
+Disallow: 
+
+# This will prevent robots from entering the dev, homepage, script and test areas
