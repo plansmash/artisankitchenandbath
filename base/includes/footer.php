@@ -4,10 +4,10 @@
 				<div class="col-sm-4 col-xs-12" itemscope itemtype="http://schema.org/LocalBusiness">
 					<h2>Contact Us</h2>
 					<div itemscope itemtype="http://schema.org/LocalBusiness">
-						<p itemprop="name">Artisan Wood Designs<a class="visible-xs visible-sm" href="https://maps.google.ca/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Artisan+Wood+Designs,+Cornwall,+ON"> (Open in Google Maps)</a></p>
-						<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">2747 Marleau Avenue</span><br />
-						<span itemprop="addressLocality">Cornwall</span>, <span itemprop="addressRegion">ON</span><br />
-						<span itemprop="postalCode">K6H&nbsp;7B6</span></p>
+						<p itemprop="name">Artisan Wood Designs<a class="visible-xs visible-sm" href="https://goo.gl/maps/cXQyxoRyWEz2P4q48"> (Open in Google Maps)</a></p>
+						<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">18255 Tyotown Rd</span><br />
+						<span itemprop="addressLocality">South Glengarry</span>, <span itemprop="addressRegion">Ontario</span><br />
+						<span itemprop="postalCode">K6H&nbsp;7S7</span></p>
 						<p itemprop="telephone"><span class="glyphicon glyphicon-phone"></span>613-933-7272</p>
 						<p itemprop="email"><a href="mailto:info@artisankitchenandbath.ca"><span class="glyphicon glyphicon-envelope"></span>info@artisankitchenandbath.ca</a></p>
 					</div>
