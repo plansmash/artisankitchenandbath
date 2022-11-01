@@ -204,7 +204,6 @@ h1, h2, h3, h4, h5, h6 {
 header {
   background-image: url("../img/header-lg.jpg");
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -633,7 +632,6 @@ footer {
 #bathrooms {
   background-image: url("../img/bathroom-lg.jpg");
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
